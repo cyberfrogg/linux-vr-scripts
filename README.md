@@ -12,5 +12,6 @@ This is a script, that automaticly starts [ALVR](https://github.com/alvr-org/ALV
 - OSCAVMGR_PATH="YOUR_FILE_PATH"
 - VRCADVERT_PATH="YOUR_FILE_PATH"
 
-2. Just start the script
-3. CTRL+C to exit
+2. Open ALVR Dashboard manually and set `Settings > SteamVR Launcher > Open and close SteamVR with dashboard` to `true` to make SteamVR start automaticly. Its necessary. Close ALVR Dashboard
+3. Just start the script
+4. CTRL+C to exit
